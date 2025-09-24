@@ -1,0 +1,38 @@
+@use "./../helpers/variables" as vars;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: initial;
+  text-decoration: none;
+}
+.container {
+  padding: 0 25px; 
+  margin-top: 71px;
+}
+
+.container-parts {
+  margin-top: 71px;
+  padding: 0 40px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.Dark {
+  background-color: vars.$color-white !important;
+  color: vars.$back-white !important;
+}
+.a-dark {
+  color: vars.$back-white !important;
+}

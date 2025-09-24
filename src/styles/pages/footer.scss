@@ -1,0 +1,29 @@
+@use "./../helpers/variables" as vars;
+
+footer {
+  margin-top: 50px;
+  background-color: black;
+  width: 100%;
+  color: white;
+  .container-parts {
+    display: flex;
+    // grid-template-columns: 30% 70%;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+    span {
+        font-size: 18px;
+        font-weight: bold;
+        text-shadow: 0 0 8px #ffec8b, 0 0 8px #ffd700;
+        border-radius: 10px;
+      }
+  }
+  img {
+    width: 120px;
+    height: 90px;
+    transition: vars.$transition;
+    &:hover {
+      filter: drop-shadow(0 0 2em rgba(212, 175, 55));
+    }
+  }
+}

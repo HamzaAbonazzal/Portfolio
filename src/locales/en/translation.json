@@ -1,0 +1,106 @@
+{
+  "header": {
+    "skills": "skills",
+    "about": "About",
+    "technologies": "Technologies",
+    "projects": "Projects",
+    "contact": "Contact Us"
+  },
+  "landing": {
+    "main": "Programming & Development Full Stack",
+    "contact": "Contact Us"
+  },
+  "settings": {
+    "top": "Top",
+    "lang": "Lang",
+    "dark": "Dark Mode",
+    "bottom": "Down"
+  },
+  "skills": {
+    "skills": "Skills",
+    "clean": "Clean Code",
+    "problem": "Problem Solving",
+    "team": "Teamwork",
+    "time": "Time Managment",
+    "effect": "Effective Communication",
+    "learn": "Continuous Learning"
+  },
+  "about": {
+    "name": "My name is Hamza Abonazzal",
+    "short": {
+      "first-p": "I'am Full-Stack developer specializing in React and Node.js, passionate about building efficient tech solutions.",
+      "last-p": "A skilled web developer with expertise in building modern and scalable web applications.",
+      "button": "Download CV"
+    },
+    "long": {
+      "about": "About",
+      "first-p": {
+        "head": "Front-End Development:",
+        "first-p": "Proficient in React.js with Hooks and Redux for dynamic and fast UIs.",
+        "last-p": "Experience with Next.js for SEO optimization and performance."
+      },
+      "second-p": {
+        "head": "Back-End Development:",
+        "first-p": " Develop RESTful APIs using Node.js and Express.js",
+        "last-p": "Design relational databases with MySQL, and non-relational with MongoDB."
+      },
+      "last-p": {
+        "head": "Additional Tools:",
+        "first-p": "Version control with Git/GitHub.",
+        "second-p": "Deployment on AWS or Heroku.",
+        "last-p": "Writing clean code following best practices."
+      }
+    }
+  },
+  "technologies": {
+    "p1": "What is my programming technologies and tools?",
+    "p2": "This some technologies and tools...",
+    "b1": "Technologies",
+    "b2": "Tools"
+  },
+  "projects": {
+    "proj1": {
+      "head": "Responsive Design",
+      "content": "These projects focus on responsive design that works with all different screen sizes",
+      "pro1": "First Project",
+      "pro2": "Second Project",
+      "pro3": "Third Project"
+    },
+    "proj2": {
+      "head": "Programming Implementation",
+      "content": "These projects focus on using Javascript language",
+      "pro1": "First Project",
+      "pro2": "Second Project"
+    },
+    "proj3": {
+      "head": "Using jQuery Library",
+      "content": "These projects utilize the jQuery library"
+    },
+    "proj4": {
+      "head": "Using CSS Framework",
+      "content": "These projects use the Bootstrap framework",
+      "pro1": "First Project",
+      "pro2": "Second Project"
+    },
+    "proj5": {
+      "head": "React Projects",
+      "content": "These projects made with react library, this portfolio and other",
+      "pro1": "First Project",
+      "pro2": "Second Project",
+      "pro3": "Second Project"
+    }
+  },
+  "contact": {
+    "head": "Have you any project? Drop a message!",
+    "par": "Do you have an inquiry or project? Contact me and let me know how I can help you! Fill out the form below, and I'll quickly reply to your email with the solutions or details you need.",
+    "phone": "Phone: ",
+    "email": "Email: ",
+    "your-email": "Your Email",
+    "name": "Name: ",
+    "your-name": "Your Name",
+    "message": "Message: ",
+    "write-message": "Write your message",
+    "send": "Send",
+    "note": "* When you click 'Send' or press the 'Enter' key, the email application on your device will open to send the message."
+  }
+}

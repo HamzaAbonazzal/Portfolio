@@ -1,0 +1,39 @@
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  /* filter: drop-shadow(0 0 2em #61dafbaa); */
+  filter: drop-shadow(0 0 2em #fbf705aa);
+}
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333;
+  --primary-color: #6200ee;
+  --secondary-color: #03dac6;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #f5f5f5;
+  --primary-color: #bb86fc;
+  --secondary-color: #03dace;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: 0.3s;
+}
+
+.sss {
+  font-family:fantasy;
+  font-size: 200px;
+  /* .great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  } */
+  font-family: "Great Vibes", cursive;
+}
